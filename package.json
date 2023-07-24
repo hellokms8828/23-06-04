@@ -67,7 +67,7 @@
     "jest-jasmine2": "^18.0.0",
     "jest-runtime": "^18.0.0",
     "loose-envify": "^1.1.0",
-    "merge-stream": "^1.0.0",
+    "merge-stream": "^2.0.0",
     "object-assign": "^4.1.1",
     "platform": "^1.1.0",
     "prettier": "^1.2.2",
