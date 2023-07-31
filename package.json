@@ -62,7 +62,7 @@
     "gulp-load-plugins": "^1.2.4",
     "gulp-util": "^3.0.7",
     "gzip-js": "~0.3.2",
-    "jest-cli": "18.0.0",
+    "jest-cli": "29.6.2",
     "jest-config": "^18.0.0",
     "jest-jasmine2": "^18.0.0",
     "jest-runtime": "^18.0.0",
